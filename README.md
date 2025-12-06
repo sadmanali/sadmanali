@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**sadmanali/sadmanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **A K M Sadman Ali**, a **Full-Stack Developer** with a **Master of Computer Science (Software Engineering)** from the **University of Sydney**, based in Sydney, Australia.
 
-Here are some ideas to get you started:
+- I design and build **backend-focused web and mobile applications** that are reliable, testable, and easy to maintain.
+- I work across the stack with **Node.js / Express, FastAPI, Spring Boot, PostgreSQL, MongoDB, React (Vite), SvelteKit, and Flutter**.
+- Open to collaborating on **backend / full-stack projects**, internal tools, and open-source work.
+- Strong interests: **system design, API design, databases, and developer-productivity tooling**.
+- 💬 Ask me about **PostgreSQL, MongoDB, REST APIs, Flutter architecture, or turning ideas into working prototypes quickly**.
+- 📫 How to reach me: sadman.mishu@gmail.com.
+- ⚡ Long-term goal: grow into a **senior backend / full-stack engineer in Australia**, working on **scalable, production-grade systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+
+**Languages**
+
+- Java · JavaScript / TypeScript · Python · C / C++  · C# · Dart · SQL  · R
+
+**Backend & Web Frameworks**
+
+- Node.js · Express.js  
+- FastAPI  
+- Spring Boot  
+- ASP.NET
+
+**Frontend & Mobile**
+
+- Flutter  
+- React (Vite)  
+- SvelteKit  
+- Vanilla JavaScript, HTML, CSS
+
+**Databases**
+
+- PostgreSQL  
+- MongoDB  
+- SQLite
+
+**DevOps & Tooling**
+
+- Git & GitHub  
+- Docker  
+- Postman · pgAdmin  
+- VS Code · IntelliJ / JetBrains IDEs
+
+---
+
+Thanks for visiting my profile!
