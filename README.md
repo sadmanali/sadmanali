@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, this is A K M Sadman Ali 👋
 
-I’m **A K M Sadman Ali**, a **Full-Stack Developer** with a **Master of Computer Science (Software Engineering)** from the **University of Sydney**, based in Sydney, Australia.
+I’m a **Full-Stack Developer** with a **Master of Computer Science (Software Engineering)** from the **University of Sydney**, based in Sydney, Australia.
 
 - I design and build **backend-focused web and mobile applications** that are reliable, testable, and easy to maintain.
 - I work across the stack with **Node.js / Express, FastAPI, Spring Boot, PostgreSQL, MongoDB, React (Vite), SvelteKit, and Flutter**.
